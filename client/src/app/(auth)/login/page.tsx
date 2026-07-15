@@ -12,7 +12,7 @@ export default function LoginPage() {
       >
         <AuthHeader
           title="Welcome Back"
-          subtitle="Enter your email and password to continue"
+          subtitle="Please sign in to your account"
           showLogo={false}
         />
 
